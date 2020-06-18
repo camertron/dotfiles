@@ -1,0 +1,7 @@
+[alias]
+        co = checkout
+        ci = commit
+        st = status
+[user]
+	name = Cameron Dutro
+	email = camertron@gmail.com
