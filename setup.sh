@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone git@github.com:camertron/dotfiles.git ~/dotfiles
+git clone https://github.com/camertron/dotfiles.git ~/dotfiles
 
 cat <<'EOF' >> ~/.bashrc
 
