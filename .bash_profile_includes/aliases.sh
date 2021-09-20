@@ -1,5 +1,4 @@
 export PATH=$HOME/bin:/usr/local/bin:/usr/local/sbin:$PATH
-export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
 
 alias w='cd /Users/camertron/workspace'
 alias bx='bundle exec'
