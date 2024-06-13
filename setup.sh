@@ -13,4 +13,3 @@ cp -r ~/dotfiles/.bash_profile_includes/ ~/
 cp ~/dotfiles/.gitconfig ~/
 
 source ~/.bashrc
-
