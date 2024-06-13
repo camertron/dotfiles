@@ -1,4 +1,4 @@
-export PATH=$HOME/bin:/usr/local/bin:/usr/local/sbin
+export PATH=$HOME/bin:/usr/local/bin:/usr/local/sbin:$PATH
 
 alias w='cd /Users/camertron/workspace'
 alias bx='bundle exec'
